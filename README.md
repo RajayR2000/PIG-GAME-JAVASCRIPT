@@ -1,5 +1,5 @@
 # PIG-GAME-JAVASCRIPT
-#So how do you play Pig?
+# So how do you play Pig?
 
 Choose a player to go first. That player throws a die and scores as many points as the total shown on the die providing the die doesn’t roll a 1. The player may continue rolling and accumulating points (but risk rolling a 1) or end his turn.
 
@@ -7,6 +7,6 @@ If the player rolls a 1 his turn is over, he loses all points he accumulated tha
 
 Play passes from player to player until a winner is determined.
 
-#How do you win?
+# How do you win?
 
 The first player to reach the score(given by you)
